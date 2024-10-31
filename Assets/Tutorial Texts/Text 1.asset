@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28a071d09de1984479ec13015fbb8fdc, type: 3}
+  m_Name: Text 1
+  m_EditorClassIdentifier: 
+  text: Put the <sprite name="Coal"> into the <sprite name="Transmuter">.  The order
+    of transmuting the gem is <sprite name="Coal">, <sprite name="Amethyst">, <sprite
+    name="Emerald">, <sprite name="Ruby">, <sprite name="Diamond">. Transmuting for
+    too long will require you to transmute the <sprite name="Coal"> again. Now try
+    make a gem.
+  spriteAsset: {fileID: 11400000, guid: 6ea906c7a75ea8442824889b04a91cce, type: 2}

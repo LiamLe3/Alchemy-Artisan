@@ -1,0 +1,525 @@
+fileFormatVersion: 2
+guid: 3702a1e2ca2ad0741a56b48e4ea31dea
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Occult_Autotiles_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de680068de0efff49b0b964476374a55
+      internalID: -604843218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Autotiles_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9216f336622fddd4d92f7ce6a08ff47e
+      internalID: 1863539848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Autotiles_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3666391947db14d9ea6cb9f5a4606e
+      internalID: 545476689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Autotiles_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c516b791a726dac43accd8590b303268
+      internalID: -1682084247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Autotiles_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b32cf105bff76047b93ce5e372b6375
+      internalID: 1269197908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Autotiles_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a7168d104a5df4191b90ba1ab4b887
+      internalID: -699015720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Autotiles_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68065d9b6af8eb4cb2acf160cc97ee6
+      internalID: 1773602500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Autotiles_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d151fcf4aa4b740b7017600617082e
+      internalID: 94435960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Autotiles_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334ae624ee3f5fa498b39efb4c13013e
+      internalID: -1866584456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Autotiles_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3b5836fd41aef42b3998587e2a4da5
+      internalID: -78121139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Autotiles_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbe00deb913cae4d8263861b15e85fd
+      internalID: -642687572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Autotiles_47
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3640239bccff4304a839a0cbeed89f84
+      internalID: -1524582545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Autotiles_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b0bcf77416be0458aa9e69024fbf3a
+      internalID: -297814810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Autotiles_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd27d61e008ed645bec105d50baa1fa
+      internalID: -97318368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occult_Autotiles_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7465a55c8c0906349811c448dfa3fa8b
+      internalID: -1928160677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Occult_Autotiles_0: 93540254
+      Occult_Autotiles_1: -2075837771
+      Occult_Autotiles_10: -1133578508
+      Occult_Autotiles_11: 1815553761
+      Occult_Autotiles_12: 1769982584
+      Occult_Autotiles_13: -610555983
+      Occult_Autotiles_14: -1294649095
+      Occult_Autotiles_15: -1014610763
+      Occult_Autotiles_16: 1341626926
+      Occult_Autotiles_17: 1977118088
+      Occult_Autotiles_18: -49026805
+      Occult_Autotiles_19: -1705677224
+      Occult_Autotiles_2: 1480562103
+      Occult_Autotiles_20: 245917946
+      Occult_Autotiles_21: -547830670
+      Occult_Autotiles_22: -970137786
+      Occult_Autotiles_23: -1597731841
+      Occult_Autotiles_24: 890349514
+      Occult_Autotiles_25: 839861087
+      Occult_Autotiles_26: -604843218
+      Occult_Autotiles_27: 1863539848
+      Occult_Autotiles_28: 545476689
+      Occult_Autotiles_29: -1682084247
+      Occult_Autotiles_3: 1548150715
+      Occult_Autotiles_30: 1269197908
+      Occult_Autotiles_31: -1573733879
+      Occult_Autotiles_32: -392893029
+      Occult_Autotiles_33: -1076567962
+      Occult_Autotiles_34: 585588593
+      Occult_Autotiles_35: -137638141
+      Occult_Autotiles_36: -699015720
+      Occult_Autotiles_37: 1773602500
+      Occult_Autotiles_38: 94435960
+      Occult_Autotiles_39: -1866584456
+      Occult_Autotiles_4: -543012773
+      Occult_Autotiles_40: -78121139
+      Occult_Autotiles_41: 194223230
+      Occult_Autotiles_42: 1266137641
+      Occult_Autotiles_43: -1094901379
+      Occult_Autotiles_44: -1249746433
+      Occult_Autotiles_45: -1078789781
+      Occult_Autotiles_46: -642687572
+      Occult_Autotiles_47: -1524582545
+      Occult_Autotiles_48: -297814810
+      Occult_Autotiles_49: -97318368
+      Occult_Autotiles_5: -877038368
+      Occult_Autotiles_50: -1928160677
+      Occult_Autotiles_51: -1489005851
+      Occult_Autotiles_52: 928058336
+      Occult_Autotiles_53: -905765291
+      Occult_Autotiles_54: 1369721894
+      Occult_Autotiles_55: 2032617786
+      Occult_Autotiles_56: -2063749759
+      Occult_Autotiles_57: -1160944180
+      Occult_Autotiles_58: -1873181933
+      Occult_Autotiles_59: 695102996
+      Occult_Autotiles_6: -610544831
+      Occult_Autotiles_60: -1761625057
+      Occult_Autotiles_61: 1517844892
+      Occult_Autotiles_62: -1935659714
+      Occult_Autotiles_63: 1461493646
+      Occult_Autotiles_64: -836135539
+      Occult_Autotiles_65: -1080843889
+      Occult_Autotiles_66: -2133264284
+      Occult_Autotiles_67: -3434749
+      Occult_Autotiles_68: -545075504
+      Occult_Autotiles_69: 818449897
+      Occult_Autotiles_7: -2089522509
+      Occult_Autotiles_70: -1149122635
+      Occult_Autotiles_71: 528370938
+      Occult_Autotiles_72: 1506170946
+      Occult_Autotiles_73: 1757158444
+      Occult_Autotiles_74: -737132551
+      Occult_Autotiles_75: 927583282
+      Occult_Autotiles_76: -893556445
+      Occult_Autotiles_77: -53789221
+      Occult_Autotiles_78: 621616414
+      Occult_Autotiles_79: 1750472026
+      Occult_Autotiles_8: -384862225
+      Occult_Autotiles_80: 275365148
+      Occult_Autotiles_81: 1740372673
+      Occult_Autotiles_82: -1883555809
+      Occult_Autotiles_9: 478768691
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
